@@ -1,4 +1,4 @@
-# Science and Technology Blog template <img align="right" width="150" height="100" src="img/logo.svg">
+# Visualizacion del cambio climatico a traves de imagenes satelitales <img align="right" width="150" height="100" src="img/avila.jpg">
 
 ## Installation instructions
 
